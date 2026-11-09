@@ -3,7 +3,7 @@ m = json.load(open("model.json"))
 vocab, idf = m["vocabulary"], m["idf"]
 jobs, resumes, skills = m["jobs"], m["resumes"], m["skills"]
 mt = m["metrics"]
-DOMAIN = "resumematch.vercel.app"
+DOMAIN = "resumematch-orcin.vercel.app"
 JS_MODEL = f"""const VOCAB = {json.dumps(vocab)};
 const IDF = {json.dumps(idf)};
 const SKILLS = {json.dumps(skills)};

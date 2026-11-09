@@ -28,7 +28,7 @@
     },
     {
      "key": "Access-Control-Allow-Origin",
-     "value": "https://resumematch.vercel.app"
+     "value": "https://resumematch-orcin.vercel.app"
     },
     {
      "key": "Content-Security-Policy",
