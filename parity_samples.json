@@ -1,0 +1,100 @@
+[
+ {
+  "resume": "Asha Verma, B.Tech Computer Science. Skills: Python, SQL, Excel, Power BI, pandas, statistics. Projects: analysed 10,000 sales records with pandas, cleaned messy data, built a Power BI dashboard showing monthly trends, wrote SQL queries with joins and pivot tables. Internship: prepared weekly reports and charts for managers, used data cleaning and storytelling with data to explain customer trends. Looking for a data analyst role.",
+  "job": "We are hiring a Data Analyst to turn raw data into clear business insights. You will write SQL queries to pull data from databases, clean and analyse datasets in Python using pandas, and build dashboards in Excel and Power BI. You should understand basic statistics, create charts that explain trends, and present findings to managers. Experience with data cleaning, pivot tables, and storytelling with data is required. A degree in computer science or statistics is preferred.",
+  "cosine": 0.4425118708884302,
+  "matched": [
+   "python",
+   "sql",
+   "excel",
+   "power bi",
+   "pandas",
+   "statistics",
+   "data cleaning"
+  ],
+  "missing": []
+ },
+ {
+  "resume": "Arjun Rao, B.Tech AI and ML. Skills: Python, TensorFlow, scikit-learn, NumPy, pandas, NLP, statistics. Projects: trained a spam classifier with scikit-learn, built an image classifier with TensorFlow, cleaned large datasets, evaluated models with precision and recall. Experience with deep learning, natural language processing, Git and model deployment. Looking for a machine learning engineer role.",
+  "job": "We are hiring a Machine Learning Engineer to build and deploy predictive models. You will train models with scikit-learn and TensorFlow, clean and prepare datasets, and evaluate models with proper metrics. You should know Python, NumPy, pandas, and the basics of deep learning and natural language processing. Experience with model deployment, version control with Git, and working with large datasets is expected. A strong grasp of statistics and linear algebra helps.",
+  "cosine": 0.45042801139380106,
+  "matched": [
+   "python",
+   "pandas",
+   "statistics",
+   "git",
+   "tensorflow",
+   "scikit-learn",
+   "numpy",
+   "deep learning",
+   "machine learning"
+  ],
+  "missing": []
+ },
+ {
+  "resume": "Asha Verma, B.Tech Computer Science. Skills: Python, SQL, Excel, Power BI, pandas, statistics. Projects: analysed 10,000 sales records with pandas, cleaned messy data, built a Power BI dashboard showing monthly trends, wrote SQL queries with joins and pivot tables. Internship: prepared weekly reports and charts for managers, used data cleaning and storytelling with data to explain customer trends. Looking for a data analyst role.",
+  "job": "We are hiring a DevOps Engineer to keep our systems running smoothly. You will manage cloud infrastructure on AWS, write Docker containers, set up Kubernetes clusters, and build CI/CD pipelines with GitHub Actions. You should know Linux, shell scripting, and monitoring tools. Experience with infrastructure as code, automated testing, and handling production incidents is expected. You will help developers ship code faster and safer.",
+  "cosine": 0.021554330838244987,
+  "matched": [],
+  "missing": [
+   "docker",
+   "git",
+   "linux",
+   "aws",
+   "kubernetes",
+   "ci/cd",
+   "github actions",
+   "shell scripting"
+  ]
+ },
+ {
+  "resume": "Kavya Reddy, BBA Marketing. Skills: SEO, Google Ads, Google Analytics, social media, Meta Ads, Canva, email marketing. Projects: ran a Google Ads campaign that cut cost per click by 30 percent, improved SEO rankings with keyword research, planned content and ran A/B testing on landing pages. Experience with ad copy, analytics and tracking results every week. Looking for a digital marketer role.",
+  "job": "We need a Digital Marketer to grow our online presence. You will run Google Ads and social media campaigns, improve our SEO rankings, and analyse traffic with Google Analytics. You should know keyword research, content planning, email marketing and A/B testing. Experience with Meta Ads, Canva, and writing ad copy is expected. You will track results every week and suggest ideas to bring in more customers at a lower cost.",
+  "cosine": 0.5050973676233664,
+  "matched": [
+   "git",
+   "seo",
+   "google ads",
+   "google analytics",
+   "social media",
+   "meta ads",
+   "canva",
+   "email marketing",
+   "a/b testing"
+  ],
+  "missing": []
+ },
+ {
+  "resume": "Nikhil Joshi, B.Tech AI and ML. Skills: Python, statistics, scikit-learn, SQL, TensorFlow, matplotlib, A/B testing. Projects: built a churn prediction model, ran A/B testing on a website experiment, explored large datasets and presented results with clear visualisations. Experience with machine learning models, experimental design and communicating to non-technical teams. Looking for a data scientist role.",
+  "job": "We are hiring a Data Scientist to solve business problems with data. You will explore large datasets, build machine learning models, and communicate results through clear visualisations. You should know Python, statistics, scikit-learn, and SQL, and have experience with A/B testing and experimental design. Experience with TensorFlow, data visualisation in matplotlib, and presenting to non-technical teams is expected. Strong problem solving skills are essential.",
+  "cosine": 0.4940148806971998,
+  "matched": [
+   "python",
+   "sql",
+   "statistics",
+   "tensorflow",
+   "scikit-learn",
+   "a/b testing",
+   "machine learning"
+  ],
+  "missing": [
+   "data visualisation"
+  ]
+ },
+ {
+  "resume": "I am a student with no experience yet.",
+  "job": "We need a Frontend Developer to build fast and beautiful web pages. You will write clean HTML, CSS and JavaScript, and build interactive user interfaces with React. You should know responsive design, flexbox, and how to fetch data from REST APIs. Experience with Git, Tailwind CSS and debugging in the browser is expected. You will work with designers to turn Figma mockups into working pages and make sure the site works well on phones and desktops.",
+  "cosine": 0.037822635172203405,
+  "matched": [],
+  "missing": [
+   "html",
+   "css",
+   "javascript",
+   "react",
+   "tailwind css",
+   "rest apis",
+   "figma",
+   "git"
+  ]
+ }
+]
