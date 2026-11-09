@@ -6,5 +6,5 @@ TF-IDF (word unigrams, sublinear TF, L2) + cosine similarity between a resume an
 
 - Matched pairs: mean cosine 0.509 vs mismatched pairs 0.056 (9.0x gap)
 - Top-1 job retrieval: 12/12 resumes matched to their correct job
-- Live demo: https://resumematch.vercel.app (runs fully in the browser — no backend)
+- Live demo: https://resumematch-orcin.vercel.app (runs fully in the browser — no backend)
 - `train.py` builds the model and writes `model.json`; `index.html` applies the same TF-IDF weights in JavaScript.
